@@ -1,0 +1,61 @@
+PKCS10 Certificate Request:
+Version: 1
+Subject:
+    CN=test.api.msl.com.sg
+    O=Singapore Automated Clearing House
+    C=SG
+  Name Hash(sha1): 8fa0d4e2de65e2918e8faa9c2e6a975510926eea
+  Name Hash(md5): e8bff81cf7f84e6abe114274a24778a3
+
+Public Key Algorithm:
+    Algorithm ObjectId: 1.2.840.113549.1.1.1 RSA (RSA_SIGN)
+    Algorithm Parameters:
+    05 00
+Public Key Length: 2048 bits
+Public Key: UnusedBits = 0
+    0000  30 82 01 0a 02 82 01 01  00 ca 14 ee 8c 71 3e d8
+    0010  2a cb 36 49 af 29 7d 9b  d3 38 53 09 03 d7 f0 46
+    0020  7e ce fc c9 c4 c6 ed f7  9e dc d1 ca 2d 0b 45 f3
+    0030  b2 b4 49 0d 40 f8 54 f5  75 46 fa 8a a9 b1 5e 1d
+    0040  61 77 00 10 51 2f 86 7b  cf 16 06 4c b3 b4 a5 4e
+    0050  6a 86 73 63 e6 74 15 8e  f1 8b 83 4d fa d3 dd 4c
+    0060  fa 60 69 81 29 8d b1 1c  70 62 1b 19 d9 64 f8 a1
+    0070  b7 06 9a 2a 6c 48 f8 b7  bb e9 56 e2 8b 3c 2f 7c
+    0080  1d a6 c5 75 53 c5 a0 bd  d9 a1 e5 db d2 9d b1 91
+    0090  1d 93 4c f1 6a 72 69 84  cc 0d 4d 7b cc 06 f5 56
+    00a0  ef b1 a9 61 e2 f8 e5 0b  57 6d ec 8d c1 78 93 68
+    00b0  f5 34 de 24 77 55 08 14  4e 3a de 6b c1 70 be 47
+    00c0  c3 25 34 e1 5f 4b 13 2f  81 aa bc 44 5d 8f fe 45
+    00d0  c3 ab 75 21 ec 46 f0 de  8a 0f 1e a8 0b 34 5e 9c
+    00e0  02 67 ff 1e 2a 93 f2 7c  7c 6f 8d 01 da 23 6a a4
+    00f0  c2 f6 5d 25 b8 44 14 db  fc 28 65 fb 46 cd 6d 6d
+    0100  c9 50 ed d0 2b 16 91 f1  07 02 03 01 00 01
+Request Attributes: 0
+  0 attributes:
+Signature Algorithm:
+    Algorithm ObjectId: 1.2.840.113549.1.1.11 sha256RSA
+    Algorithm Parameters:
+    05 00
+Signature: UnusedBits=0
+    0000  6f 4d b8 fb 42 ae e3 db  81 50 b1 c3 e5 f8 f3 c4
+    0010  03 75 b1 f6 0c b5 2b fd  6b a2 51 29 b2 27 a1 ca
+    0020  80 42 09 44 66 4e 54 d8  93 44 38 cc 36 77 b9 21
+    0030  1b b5 1a 4b 73 3a f1 a2  a9 55 c1 5a a6 44 4c a0
+    0040  d0 fd 70 e8 c7 d1 ff f0  eb 71 de 8e 5d ea 60 49
+    0050  78 61 87 c2 aa 7a 8b 6e  b3 f6 eb 3f c6 0a 85 f3
+    0060  ce bc aa f0 b5 22 83 2f  eb 35 06 d2 fd 5d b1 c7
+    0070  c6 9a 73 82 90 a9 ba aa  91 cb c7 00 c9 c3 89 3b
+    0080  04 93 d4 71 91 5d a5 66  92 28 f4 0f 43 0e 12 cf
+    0090  f3 67 20 c3 07 b7 a0 72  e7 58 f0 17 cd 43 23 75
+    00a0  58 47 9b 2d d9 de 8a c3  8d 89 97 ee 5e 9a 5b 2b
+    00b0  1b 16 0f 3f 25 b4 8b e8  47 61 19 b9 7a 80 81 98
+    00c0  45 38 a1 98 30 04 33 76  0f 7a c8 eb 33 b8 73 f1
+    00d0  a7 c1 61 e1 0f 82 0b 7b  87 41 05 1a cd c3 37 30
+    00e0  86 ac 65 2a 05 ad 98 74  7c f5 fd 4e d3 ce 8a 6a
+    00f0  2b f7 47 18 22 85 19 d4  f2 1c d6 a8 9b 2f 20 2d
+Signature matches Public Key
+Key Id Hash(rfc-sha1): 3d1c177d8a0ab533f459a33bd89d8978273d3a51
+Key Id Hash(sha1): 4a3e4f195ac2531f826f4003604d6f4801e36423
+Key Id Hash(bcrypt-sha1): d1e41569f7808942692c246786b5095cba6268b5
+Key Id Hash(bcrypt-sha256): dc0df6b3b7ffcfd5e320cf565e694c85741c73a858d0b26f920fe1602443fc9c
+CertUtil: -dump command completed successfully.
